@@ -172,10 +172,12 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 .pic-headerli{
   width: 35px;
   margin-top: 5px;
+  border-radius: 50%;
 }
 
 .voicelogo{
-  margin-left: 20px;
+  margin-left: 460px;
+
   
 }
 
@@ -183,4 +185,3 @@ form.example {
   box-sizing: border-box;
 }
 
-.panel{}
